@@ -33,8 +33,7 @@ echo $lista;
 
 /*
 // Cadastrar novo usuario
-$aluno = new Usuario("Maria", "abcde");
-$aluno->insert();
+$aluno = new Usuario("Maria", "abcde"); $aluno->insert();
 echo $aluno;
 */
 
