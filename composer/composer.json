@@ -1,0 +1,16 @@
+{
+    "name": "caiocesar/composer",
+    "description": "Estudo de PHP7",
+    "type": "project",
+    "authors": [
+    	{
+    		"name": "Caio Cesar",
+    		"email": "caio.cesar.dec15@gmail.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"monolog/monolog": "1.0.*"
+
+    }
+}
