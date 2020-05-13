@@ -4,7 +4,7 @@
 
 	<input type="email" name="email">
 
-	<div class="g-recaptcha" data-sitekey="6Lee3vYUAAAAAD9uUJcDDsO_Xb8uiPWva8d3saCS"></div>
+	<div class="g-recaptcha" data-sitekey="chave publica"></div>
 
 	<button type="submit">Enviar</button>
 	
